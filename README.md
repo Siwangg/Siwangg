@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Karl
 - 👀 I’m interested in Level Design/Level Development
-- 🌱 I’m currently learning Unity3D and Blender
+- 🌱 I’m currently learning Unity and Blender
 - 💞️ I’m looking to collaborate on anything that will get me exposure to this environment
 - 📫 How to reach me via email: kblr11111@gmail.com
 
